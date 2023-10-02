@@ -1,2 +1,2 @@
-# ascendant_multiverse_issues
-Bug reports for [Ascendant Multiverse](https://app.ascendantcomics.com)
+# Ascendant Multiverse Issue Tracker
+Bug reports and feature requests for [Ascendant Multiverse](https://app.ascendantcomics.com).
